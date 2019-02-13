@@ -1,6 +1,6 @@
 # wakaba
 
-# run container
+## run container
 
 1. ディレクトリの作成と移動
 
@@ -37,19 +37,19 @@
 
 1. http://localhost にアクセスする
 
-# exit container
+## exit container
 
 ```
 control + p + q
 ```
 
-# stop container
+## stop container
 
 ```
 $ dokcer stop myapp
 ```
 
-# remove container
+## remove container
 
 ```
 $ dokcer rm myapp
