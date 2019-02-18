@@ -1,4 +1,6 @@
-# wakaba
+# learning_docker
+
+docker についてざっくりまとめたノート: https://repro.esa.io/posts/20148
 
 ## run container
 
