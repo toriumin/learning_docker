@@ -7,7 +7,7 @@ docker についてざっくりまとめたノート: https://repro.esa.io/posts
 1. ディレクトリの作成と移動
 
   ```
-  $ mkdir wakaba && $ cd wakaba
+  $ mkdir learning_docker && $ cd learning_docker
   ```
 
 1. コンテナを作成する
